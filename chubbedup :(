@@ -1,1 +1,2 @@
-
+weight=input("Enter your weight here!")
+def enter_weight(
